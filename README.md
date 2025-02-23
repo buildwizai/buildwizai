@@ -28,6 +28,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging artificial intelli
 ## 📫 Get in Touch
 Feel free to reach out through our [official website](https://buildwizai.com) for collaborations or inquiries.
 
+![Page View](https://profile-counter.glitch.me/buildwizai/count.svg)
+
 <!--
 **buildwizai/buildwizai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
