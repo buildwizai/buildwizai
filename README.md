@@ -13,6 +13,9 @@ Welcome to my GitHub profile! I'm passionate about leveraging artificial intelli
 - 🤖 AI-powered product development
 - 💡 Innovative solutions
 - 🔄 Continuous innovation
+- 🎧 NotebookLM-powered podcast converting AI papers, articles, blogs, and books into audio format
+  - 🎙️ Podcast (Spotify): [Build Wiz AI Show](https://open.spotify.com/show/5CVKgOaJSWfKlwe6KaqO7v)
+  - 🎧 Podcast (Apple): [Build Wiz AI Show](https://podcasts.apple.com/us/podcast/build-wiz-ai/id1799918505)
 
 ## GitHub Stats
 
