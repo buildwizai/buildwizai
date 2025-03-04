@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging artificial intelli
 - 🤖 AI-powered product development
 - 💡 Innovative solutions
 - 🔄 Continuous innovation
-- 🎧 NotebookLM-powered podcast converting AI papers, articles, blogs, and books into audio format
+- 🎧 Build Wiz AI Show is your go-to podcast for transforming the latest and most interesting papers, articles, and blogs about AI into an easy-to-digest audio format. Using NotebookLM, we break down complex ideas into engaging discussions, making AI knowledge more accessible. Have a resource you’d love to hear in podcast form? Send us the link, and we might feature it in an upcoming episode! 🚀🎙️
   - 🎙️ Podcast (Spotify): [Build Wiz AI Show](https://open.spotify.com/show/5CVKgOaJSWfKlwe6KaqO7v)
   - 🎧 Podcast (Apple): [Build Wiz AI Show](https://podcasts.apple.com/us/podcast/build-wiz-ai/id1799918505)
   - 📡 RSS Feed: [Subscribe via RSS](https://anchor.fm/s/101f7db20/podcast/rss)
