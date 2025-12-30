@@ -18,17 +18,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging artificial intelli
   - 🎧 Podcast (Apple): [Build Wiz AI Show](https://podcasts.apple.com/us/podcast/build-wiz-ai/id1799918505)
   - 📡 RSS Feed: [Subscribe via RSS](https://anchor.fm/s/101f7db20/podcast/rss)
 
-## GitHub Stats
-
-[![Luong's GitHub stats](https://github-readme-stats.vercel.app/api?username=buildwizai&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)](https://github.com/buildwizai)
-
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buildwizai&hide=java,html,css&hide_progress=true&theme=dark)](https://github.com/buildwizai)
-
-## GitHub Trophy
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=buildwizai&theme=dark)
-
 ## 📫 Get in Touch
 Feel free to reach out through our [official website](https://buildwizai.com) for collaborations or inquiries.
 
